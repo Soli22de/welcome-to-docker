@@ -12,6 +12,8 @@ And open `http://localhost:8088` in your browser.
 
 Maintainers should see [MAINTAINERS.md](MAINTAINERS.md).
 
+test
+
 Build and run:
 ```
 docker build -t welcome-to-docker . 
